@@ -7,12 +7,10 @@ Config file:
 Script to use the trained model for prediction and output: output.py
 
 My version:
-mmcv-full                     1.4.0
-mmdet                         2.11.0 
 torch                         1.8.0+cu111
 torchaudio                    0.8.0
 torchvision                   0.9.0+cu111
 
-
-Set the environment:
+Note: 
+The version of mmvc-full and mmdetectionn should be compatible.
 
